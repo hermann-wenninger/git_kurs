@@ -41,5 +41,13 @@ initialize repo:
     git log --graph #-> graphdarstellung
 
 undoing mistakes
+    git revert 34567876wrt5fghhh3dj77775. #-> revert commit
 
+cloning repos
+    git clone git@github.com:hmannwmann
+    git remote
+    git remote add new-remote http://new-remote-repo.com
+    git fetch #-> fetch inhalte
+    git fetch origin
+    
 
