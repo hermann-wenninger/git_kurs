@@ -1,0 +1,17 @@
+beispiel log:
+
+commit 6ac2ac7b7efd93b8d92a5cefb8e394b66c57e545 (HEAD -> master)
+Author: hermann <hermann23@vivaldi.net>
+Date:   Sun Nov 21 15:06:37 2021 +0100
+
+    all ok?
+
+commit b0734efab5cc0556ebf8b53ffba220e23c77ce76
+Author: hermann <hermann23@vivaldi.net>
+Date:   Sun Nov 21 14:55:52 2021 +0100
+
+    second commit
+
+commit 9a89184016d716eeb36f75e48e1db5a5300e86e2
+Author: hermann <hermann23@vivaldi.net>
+:
