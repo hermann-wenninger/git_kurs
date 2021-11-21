@@ -26,5 +26,20 @@ initialize repo:
     git commit #-> to commit file
     git commit -v #-> telling the commitinfo
     git commit -m #-> mflag to write commit directly in terminal
+    git commit -a #-> commit all changed file
+    git commit --amend
+    git config --global core.editor "'C:\Users\josef\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code' -w"
+    git log #->logdateien
+    git log -2 #-> last 2 logs
+    git log --pretty #-> pretty
+    git log -p #-> the patch made
+    git log --pretty=oneline #-> pretty in one line
+    git log --pretty=full
+    git log --pretty=fuller
+    git log --since "2 months" #-> time
+    git log --until "1 month"
+    git log --graph #-> graphdarstellung
+
+undoing mistakes
 
 

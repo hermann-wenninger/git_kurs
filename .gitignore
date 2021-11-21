@@ -1,0 +1,13 @@
+# asterix
+*.log
+*.jpg
+*.jpeg
+*.gif
+*.png
+*.exe
+*.pcx
+# ignore .html files subdirs
+**/*.html
+# negation
+!todo.log
+!git.log
