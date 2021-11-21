@@ -49,5 +49,6 @@ cloning repos
     git remote add new-remote http://new-remote-repo.com
     git fetch #-> fetch inhalte
     git fetch origin
-    
+    git merge origin/master master
+    git push origin masterg
 
