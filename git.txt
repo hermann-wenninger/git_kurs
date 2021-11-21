@@ -2,27 +2,29 @@ config git:
     git config --global user.name 'user name'
     config --global user.email 'user@email.com'
 bash:
-    pwd - print working dir
-    ls - list dir 
-    cd - change dir
-    tabkey - auto input
+    pwd #- print working dir
+    ls #- list dir 
+    cd #- change dir
+    tabkey #- auto input
     .. one level up 
-    man - man pages
-    clear - clear terminal
-    mkdir - make dir
-    mv - move file to dir
-    cat - content printer
-    rm - remove file
-    . - dot alias
-    up and down key - terminal history
-initialize repo;
-    .git contains all infos
-    git init - initialize repo
-    git status - status of tracked files
-    git add file.etxtension - add a new file
-    git add . - add all untraked files
-    git diff - run diff commad
-    git diff --staged - to see the changes from add to add
-    git commit - to commit file
+    man #- man pages
+    clear #- clear terminal
+    mkdir #- make dir
+    mv #- move file to dir
+    cat #- content printer
+    rm #- remove file
+    . #- dot alias
+    up and down key #- terminal history
+initialize repo:
+    .git  #->folder contains all infos
+    git init #-> initialize repo
+    git status #-> status of tracked files
+    git add file.etxtension #-> add a new file
+    git add . #-> add all untraked files
+    git diff #-> run diff commad
+    git diff --staged #-> to see the changes from add to add
+    git commit #-> to commit file
+    git commit -v #-> telling the commitinfo
+    git commit -m #-> mflag to write commit directly in terminal
 
 
