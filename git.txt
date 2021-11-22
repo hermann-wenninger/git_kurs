@@ -63,6 +63,14 @@ konzept of branches and forking
     git checkout gitKursBranch
     git checkout master
 
+konzept of merging
+    first:
+        git branch
+        git branch newFeature
+            or: git checkout -b newFeature
+            check branch with: git branch
+        
+
 
 
 
