@@ -1,0 +1,19 @@
+D:\a_work\git_kurs>git log --branches --graph --oneline
+* 4025bac (HEAD -> master, origin/master) merging tipp
+*   c750f7b Merge branch 'newFeature' final tipp|\  
+| * ee26bbd commiting all
+* | 6c860dc committing git.txt
+* | c35cb3a commit the changes bug-fix
+* | dc623cb featuring
+* | 9372524 modified README and git.txt
+|/
+* 7d72cce commiting graphBeispiel.txt
+| * 0228f1f (gitKursBranch) fehlende message    
+|/
+*   cf850ca Merge branch 'master' of https://github.com/hermann-wenninger/git_kurs
+|\
+| * 5bdf0a5 create beispiel für push pull       
+* | 2fef221 #
+|/
+* 464d3d8 initialer
+:
