@@ -70,7 +70,22 @@ konzept of merging
             or: git checkout -b newFeature
             check branch with: git branch
         git merge <name of branch>
-        git branch -d bug-fix
+        git branch -d bug-fix #->delete a branch
+
+resolving merge conflicts
+    editor in master
+
+remote branches
+    git checkout -b branchName  remote/branchName
+    git checkout --track origin/branchName
+    git checkout branchName
+    git branch -vvt
+    git fetch
+    git push --delete <branchName>
+
+rebasing
+    git rebase master
+    git log --branches --graph --online
         
         
 

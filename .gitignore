@@ -1,4 +1,4 @@
-# asterix
+# asterix beispiel für gitignore
 *.log
 *.jpg
 *.jpeg
@@ -8,6 +8,6 @@
 *.pcx
 # ignore .html files subdirs
 **/*.html
-# negation
+# negation of ignore
 !todo.log
 !git.log
