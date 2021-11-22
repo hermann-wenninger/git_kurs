@@ -1,5 +1,7 @@
-regular readme datei
+1. regular readme datei
 
-beschreibung des projectes
+2. beschreibung des projectes
 
-this is the line newFeature
+3. this is the line newFeature
+
+4. bug-fix line
