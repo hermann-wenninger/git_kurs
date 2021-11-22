@@ -28,7 +28,7 @@ initialize repo:
     git commit -m #-> mflag to write commit directly in terminal
     git commit -a #-> commit all changed file
     git commit --amend
-    git config --global core.editor "'C:\Users\josef\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code' -w"
+    git config --global core.editor "'C:\Users\josef\AppData\Local\Programs\Microsoft VS Code\Code.exe' -w"
     git log #->logdateien
     git log -2 #-> last 2 logs
     git log --pretty #-> pretty
@@ -51,4 +51,18 @@ cloning repos
     git fetch origin
     git merge origin/master master
     git push origin masterg
+
+tagging versioning
+    git tag --list<glob> #-> tag "0.1"
+    git show "0.1"
+    git tag -a "0.1" -m "tagging version"
+    git push origin --tags
+
+konzept of branches and forking
+    git branch gitKursBranch #-> new gitKursBranch
+    git checkout gitKursBranch
+    git checkout master
+
+
+
 

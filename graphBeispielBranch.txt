@@ -1,0 +1,29 @@
+D:\a_work\git_kurs>git log --graph
+*   commit cf850cabb11f9f1e9d6360b762f7ebfcc39ce79f (HEAD -> master, origin/master)
+|\  Merge: 2fef221 5bdf0a5
+| | Author: hermann <hermann23@vivaldi.net>
+| | Date:   Sun Nov 21 16:58:14 2021 +0100
+| | 
+| |     Merge branch 'master' of https://github.com/hermann-wenninger/git_kurs     
+| | 
+| * commit 5bdf0a5b19d3ba6ea4e861bc23fd2a11e29f4637
+| | Author: hermann-wenninger <hermann23@vivaldi.net>
+| | Date:   Sun Nov 21 16:54:16 2021 +0100
+| | 
+| |     create beispiel für push pull
+| | 
+* | commit 2fef221c24280a8590912ba29023e12fe824e0fc
+|/  Author: hermann <hermann23@vivaldi.net>
+|   Date:   Sun Nov 21 16:57:58 2021 +0100
+|   
+|       #
+| 
+* commit 464d3d8c1cba9ca2abab8a24ceb79bbdb38ba3bc
+| Author: hermann <hermann23@vivaldi.net>
+| Date:   Sun Nov 21 16:47:01 2021 +0100
+|
+|     initialer
+|
+* commit acdf916a68dac685d2a8cbbc84caa040fdc70dbc
+| Author: hermann <hermann23@vivaldi.net>
+:
