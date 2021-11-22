@@ -86,6 +86,18 @@ remote branches
 rebasing
     git rebase master
     git log --branches --graph --online
+
+forking repos
+    fork 
+    clone
+    git log
+    git remote add upstream git@github.com:repoName
+    git remote -v show
+    git fetch upstream
+    git merge upstream/master
+
+commit guidlines
+
         
         
 
