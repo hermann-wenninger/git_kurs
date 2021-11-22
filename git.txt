@@ -97,6 +97,23 @@ forking repos
     git merge upstream/master
 
 commit guidlines
+    commitGuidlines.http
+
+squashing commits 
+    git reset --soft HEAD~5 #-> go back 5 commits
+    git loggit diff
+    git status
+    git diff --staged
+    git commit -v #-> make commit in a good way
+    git log -p #->show umfangreichen log
+
+merge or pull in github
+    git push origin modifyDat
+
+aliasing commands
+    beispie für status commad:
+        git config --global alias.st status
+
 
         
         
